@@ -1,0 +1,4 @@
+#ifdef FILEGENERATOR_H
+#define FILEGENERATOR_H
+
+#endif
